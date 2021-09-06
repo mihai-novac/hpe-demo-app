@@ -15,7 +15,7 @@ import java.security.InvalidParameterException;
 public class Band {
 	public int id;
 	public String name =  "1";
-	public String logo =  "";
+	public String logo =  "bla";
 	public String song =  "";
 	public int votes = 0;
 	public int votes11 = 101;
