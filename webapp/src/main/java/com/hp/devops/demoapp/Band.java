@@ -14,11 +14,11 @@ import java.security.InvalidParameterException;
  */
 public class Band {
 	public int id;
-	public String name =  "1";
-	public String logo =  "bla";
-	public String song =  "";
-	public int votes = 0;
-	public int votes11 = 101;
+	public String name =  "12";
+	public String logo =  "bla3";
+	public String song =  "4";
+	public int votes = 5;
+	public int votes11 = 106;
 
 
 	public Band(JSONObject json) {
